@@ -1,0 +1,32 @@
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\appsettings.Development.json
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\appsettings.json
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Exception handling.exe
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Exception handling.deps.json
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Exception handling.runtimeconfig.json
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Exception handling.dll
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Exception handling.pdb
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOT NET CORE\Exception handling\Exception handling\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.csproj.AssemblyReference.cache
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.AssemblyInfoInputs.cache
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.AssemblyInfo.cs
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.csproj.CoreCompileInputs.cache
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.MvcApplicationPartsAssemblyInfo.cs
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.MvcApplicationPartsAssemblyInfo.cache
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\staticwebassets.build.json
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\staticwebassets.development.json
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\staticwebassets\msbuild.Exception handling.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\staticwebassets\msbuild.build.Exception handling.props
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Exception handling.props
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Exception handling.props
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\scopedcss\bundle\Exception handling.styles.css
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.csproj.CopyComplete
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.dll
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\refint\Exception handling.dll
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.pdb
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\Exception handling.genruntimeconfig.cache
+D:\DOT NET CORE\Exception handling\Exception handling\obj\Debug\net8.0\ref\Exception handling.dll
